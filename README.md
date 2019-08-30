@@ -111,7 +111,7 @@ Once the class was create, we can call the __fit__ method. This method recives t
 * y: A numpy.ndarray instance containing the labels of the training data. or the label of the training data combined with the validation label.
 * time_limit (Default: 24h): The time limit for the search in seconds. (optional, default = None, which turns into 24 hours in method)
 
-_For this tutorial, it was set a 2h time_limit. It is important to set GPU enviroment in Google Colab_
+_For this tutorial, it was set a 1h time_limit. It is important to set GPU enviroment in Google Colab_
 
 
 
